@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chetanS04
-- 👀 I’m interested in learn AI/ML
+- 👀 I’m interested in learn AI/ML/Deep Learning
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on ...
